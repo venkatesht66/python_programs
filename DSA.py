@@ -1,5 +1,3 @@
-# SECTION 10: ALGORITHMS & DATA STRUCTURES (181-190)
-
 ## Problem 181: Bubble sort
 # **Statement:** Implement bubble sort
 # **Input:** 6\n5 3 8 4 2 1

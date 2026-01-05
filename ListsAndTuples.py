@@ -1,5 +1,3 @@
-# SECTION 4: LISTS & TUPLES (71-95)
-
 ## Problem 71: Read N numbers into list
 # **Input:** 5\n1 2 3 4 5
 # **Output:** List: [1, 2, 3, 4, 5]

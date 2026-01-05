@@ -1,5 +1,3 @@
-# SECTION 8: OOP BASICS (151-165)
-
 ## Problem 151: Create a simple class
 # **Statement:** Create a Car class with attributes
 # **Input:** Toyota Camry 2024
